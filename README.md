@@ -1,3 +1,4 @@
 # Udemy-Dice-Game
-JavaScript warm up from Udemy Fullstack Developer Course 2023.
+JavaScript practice from Udemy Fullstack Developer Course 2023.
+<br>
 All credits goes to Angela Yu from www.AppBrewery.com
